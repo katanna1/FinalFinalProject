@@ -1,3 +1,7 @@
+### VIDEO PRESENTATION LINK ###
+### https://www.loom.com/share/c06764db0dd043aca20de84ec47c3b88?sid=fb95d903-2457-4537-a19c-309f9808c25d ###
+
+
 ### Installing necessary packages:  
 * `pip install fastapi`
 * `pip install "uvicorn[standard]"`  
